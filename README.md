@@ -14,4 +14,5 @@ Especially when you have arithmetic cores with about 200 transistors switching o
 And almost can't use any caches because of that.
 
 TODO:
+
 Send greatings to Rakes Kumar, NTNU xD
